@@ -31,6 +31,5 @@ The analysis utilizes publicly available datasets from Kaggel,
 
 
 # Results
-The analysis revealed several important insights:
-[Here](https://github.com/doaa-sala7/Greenhouse_Gases_Analysis)
+The analysis revealed several important insights:[Here](https://github.com/doaa-sala7/Greenhouse_Gases_Analysis/blob/main/greenhouse_gases.ipynb)
 
